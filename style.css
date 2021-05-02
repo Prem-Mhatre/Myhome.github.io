@@ -132,14 +132,14 @@ body{
         opacity: 0;
     }
     55%{
-        content: "Just click that click that subscribe button.";
+        content: "Just click that click that subscribe button on the videos tab.";
         opacity: 1;
     }
     60%{
         opacity: 0;
     }
     65%{
-        content: "Watch my videos and subscribe";
+        content: " And watch my videos and subscribe";
         opacity: 1;
     }
     70%{
