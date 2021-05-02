@@ -268,3 +268,20 @@ body{
 #by{
     margin-left: 185px;
 }
+#merch{
+    height: 30px;
+    width: 60px;
+    background-color: red;
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    position: absolute;
+    top: 18px;
+    left: 251px; 
+    cursor: pointer;
+}
+#merch:hover{
+    background-color: black;
+    color: red;
+    border: 2px solid red; 
+}
