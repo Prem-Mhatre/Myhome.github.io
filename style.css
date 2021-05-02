@@ -184,7 +184,7 @@ body{
     animation: CodingDes 30s linear infinite;
 }
 .community{
-    background-color: white;
+    background-color: lightgray;
     width: 100%;
     text-align: center;
     height: 500px;
@@ -200,7 +200,7 @@ body{
     margin: auto;
 }
 .post{
-    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.2);
     width: 350px;
     margin: auto;
     border: 2px solid black;
