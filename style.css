@@ -183,64 +183,6 @@ body{
     font-size: 3rem;
     animation: CodingDes 30s linear infinite;
 }
-@keyframes gamingDes{
-    0%{
-        opacity: 0;
-    }
-    5%{
-        content: "Guys welcome to my website.";
-        opacity: 1;
-    }
-    10%{
-        opacity: 0;
-    }
-    15%{
-        content: "Guy you can see that logo above.";
-        opacity: 1;
-    }
-    20%{
-        opacity: 0;
-    }
-    25%{
-        content: "That is my gaming channel logo.";
-        opacity: 1;
-    }
-    30%{
-        opacity: 0;
-    }
-    35%{
-        content: "On this channel me and PM army are having fun.";
-        opacity: 1;
-    }
-    40%{
-        opacity: 0;
-    }
-    45%{
-        content: "If you want you can join us.";
-        opacity: 1;
-    }
-    50%{
-        opacity: 0;
-    }
-    55%{
-        content: "Just click that subscribe button in videos tab.";
-        opacity: 1;
-    }
-    60%{
-        opacity: 0;
-    }
-    65%{
-        content: "And watch my videos and subscribe";
-        opacity: 1;
-    }
-    70%{
-        opacity: 0;
-    }
-    80%{
-        content: "Thank You";
-        opacity: 1;
-    }
-}
 .community{
     background-color: white;
     width: 100%;
@@ -258,6 +200,7 @@ body{
     margin: auto;
 }
 .post{
+    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
     width: 350px;
     margin: auto;
     border: 2px solid black;
