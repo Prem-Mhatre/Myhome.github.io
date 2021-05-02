@@ -202,7 +202,7 @@ body{
     box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.4);
     width: 350px;
     margin: auto;
-    border: 2px solid black;
+    border: 2px solid white;
     background-color: white;
 }
 #date{
