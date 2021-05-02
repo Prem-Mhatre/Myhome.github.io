@@ -184,7 +184,6 @@ body{
     animation: CodingDes 30s linear infinite;
 }
 .community{
-    background-color: lightgray;
     width: 100%;
     text-align: center;
     height: 500px;
@@ -195,12 +194,12 @@ body{
 }
 #community{
     font-family: Noto Sans TC;
-    color: black;
+    color: white;
     width: 350px;
     margin: auto;
 }
 .post{
-    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.4);
     width: 350px;
     margin: auto;
     border: 2px solid black;
