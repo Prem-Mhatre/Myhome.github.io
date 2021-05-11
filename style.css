@@ -230,10 +230,10 @@ body{
     border: 2px solid red; 
 }
 .info{
-    background: white;
+    background-color: white;
 }
-line{
-    background: black;
+.line{
+    background-color: black;
     heigth: 200px;
     width: 6px;
 }
