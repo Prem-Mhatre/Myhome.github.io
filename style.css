@@ -234,9 +234,11 @@ body{
 }
 .line{
     background-color: black;
-    heigth: 200px;
-    width: 6px;
+    height: 6px;
+    width: 200px;
 }
 info p{
     font-size: 2rem;
+    font-family: cursive;
+    margin: auto;
 }    
