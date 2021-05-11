@@ -229,3 +229,11 @@ body{
     color: red;
     border: 2px solid red; 
 }
+.info{
+    background: white;
+}
+line{
+    background: black;
+    heigth: 200px;
+    width: 6px;
+}
