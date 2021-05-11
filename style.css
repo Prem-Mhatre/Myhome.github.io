@@ -237,3 +237,6 @@ body{
     heigth: 200px;
     width: 6px;
 }
+info p{
+    font-size: 2rem;
+}    
